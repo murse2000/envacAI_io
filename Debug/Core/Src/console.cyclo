@@ -1,0 +1,9 @@
+../Core/Src/console.c:14:9:Uart1_Is_Empty	2
+../Core/Src/console.c:20:6:Uart1_EnQueue	1
+../Core/Src/console.c:26:9:Uart1_DeQueue	1
+../Core/Src/console.c:34:6:u1_increase_point_value	2
+../Core/Src/console.c:42:6:Uart1Queue_Initialize	1
+../Core/Src/console.c:48:6:uart_putc	1
+../Core/Src/console.c:53:6:Console_ReadUart	2
+../Core/Src/console.c:60:6:usart_console	17
+../Core/Src/console.c:141:6:hex_dump	11
